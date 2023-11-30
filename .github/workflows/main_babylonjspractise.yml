@@ -59,4 +59,4 @@ jobs:
           app-name: 'babylonjspractise'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_443B7093820547339A9DFDBFF82806F6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EBD81EEFCE94D9BA8BC94FA174EB4AC }}
